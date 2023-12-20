@@ -1,0 +1,47 @@
+
+body{
+background-image:url(https://img.freepik.com/free-vector/grunge-paper-background_1048-10026.jpg);
+background-position: center;
+width: 100%;
+color: black;
+font-family: 'Comic Sans Ms' Georgia, 'Times New Roman', Times, serif;
+}
+
+.common{
+
+}
+.footer{
+    
+    bottom:0px;
+    display: block;
+    text-align: center;
+}
+
+div{
+ font-size: medium;  
+ font-family: 'Comic Sans Ms' Georgia, 'Times New Roman', Times, serif; 
+ color:black
+}
+
+img{ 
+ 
+    border: solid white 3px;
+    padding: 4px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width= 50%
+  
+   }
+.common{
+
+}
+.header{
+top:0px;
+
+}
+.mainbody{
+    top: 400px;
+
+
+}
